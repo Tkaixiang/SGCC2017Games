@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BuildIT Beta 0.23.data.unityweb",
+"asmCodeUrl": "BuildIT Beta 0.23.asm.code.unityweb",
+"asmMemoryUrl": "BuildIT Beta 0.23.asm.memory.unityweb",
+"asmFrameworkUrl": "BuildIT Beta 0.23.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
